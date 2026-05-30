@@ -1,0 +1,242 @@
+{
+  "el_gran_maja_idle": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle1",
+        "stream": false
+      }
+    ]
+  },
+  "el_gran_maja_idle2": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle2",
+        "stream": false
+      }
+    ]
+  },
+  "el_gran_maja_idle3": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle3",
+        "stream": false
+      }
+    ]
+  },
+  "el_gran_maja_idle4": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle4",
+        "stream": false
+      }
+    ]
+  },
+  "el_gran_maja_idle5": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle5",
+        "stream": false
+      }
+    ]
+  },
+  "el_gran_maja_idle6": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle6",
+        "stream": false
+      }
+    ]
+  },
+  "el_gran_maja_idle7": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle7",
+        "stream": false
+      }
+    ]
+  },
+  "el_gran_maja_idle8": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.el_gran_maja.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:el_gran_maja/idle8",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle1",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle2": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle2",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle3": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle3",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle4": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle4",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle5": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle5",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle6": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle6",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle7": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle7",
+        "stream": false
+      }
+    ]
+  },
+  "sea_eater_idle8": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.sea_eater.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:sea_eater/idle8",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle1",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle2": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle2",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle3": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle3",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle4": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle4",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle5": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle5",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle6": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle6",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle7": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle7",
+        "stream": false
+      }
+    ]
+  },
+  "the_bloop_idle8": {
+    "category": "hostile",
+    "subtitle": "subtitle.oath_of_the_ocean.the_bloop.idle",
+    "sounds": [
+      {
+        "name": "oath_of_the_ocean:the_bloop/idle8",
+        "stream": false
+      }
+    ]
+  }
+}

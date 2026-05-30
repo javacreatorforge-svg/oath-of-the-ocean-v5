@@ -1,0 +1,11 @@
+{
+  "entity.oath_of_the_ocean.el_gran_maja": "El Gran Maja",
+  "entity.oath_of_the_ocean.sea_eater":    "Sea Eater",
+  "entity.oath_of_the_ocean.the_bloop":    "The Bloop",
+  "item.oath_of_the_ocean.el_gran_maja_spawn_egg": "El Gran Maja Spawn Egg",
+  "item.oath_of_the_ocean.sea_eater_spawn_egg":    "Sea Eater Spawn Egg",
+  "item.oath_of_the_ocean.the_bloop_spawn_egg":    "The Bloop Spawn Egg",
+  "subtitle.oath_of_the_ocean.el_gran_maja.idle": "El Gran Maja calls...",
+  "subtitle.oath_of_the_ocean.sea_eater.idle":    "Sea Eater stirs...",
+  "subtitle.oath_of_the_ocean.the_bloop.idle":    "Distant bloop..."
+}

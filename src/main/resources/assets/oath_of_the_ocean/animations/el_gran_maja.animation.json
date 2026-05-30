@@ -1,0 +1,46 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.sm_elgranmaja.swim_1": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": [
+						0,
+						"math.sin(q.anim_time*150)*5",
+						0
+					]
+				},
+				"spine1": {
+					"rotation": [
+						0,
+						"-math.sin((q.anim_time+3)*150)*10",
+						0
+					]
+				},
+				"spine2": {
+					"rotation": [
+						0,
+						"-math.sin((q.anim_time+5)*150)*10",
+						0
+					]
+				},
+				"spine3": {
+					"rotation": [
+						0,
+						"-math.sin((q.anim_time+7)*150)*10",
+						0
+					]
+				},
+				"spine4": {
+					"rotation": [
+						0,
+						"-math.sin((q.anim_time+9)*150)*10",
+						0
+					]
+				}
+			},
+			"animation_length": 1.00531
+		}
+	}
+}
